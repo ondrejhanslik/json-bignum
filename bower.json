@@ -1,0 +1,29 @@
+{
+  "name": "json-bignum",
+  "version": "0.0.3",
+  "homepage": "https://github.com/ondrejhanslik/json-bignum",
+  "authors": [
+    "Datalanche, Inc.",
+    "Ondrej Hanslik"
+  ],
+  "description": "JSON replacement which handles 64-bit integers and arbitrary-precision decimals.",
+  "main": "lib/index.js",
+  "keywords": [
+    "json",
+    "big",
+    "decimal"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    ".gitignore",
+    "README.md",
+    ".benchmark.js",
+    "example.js"
+    "package.json",
+  ]
+}
