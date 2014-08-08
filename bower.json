@@ -23,7 +23,7 @@
     ".gitignore",
     "README.md",
     ".benchmark.js",
-    "example.js"
-    "package.json",
+    "example.js",
+    "package.json"
   ]
 }
